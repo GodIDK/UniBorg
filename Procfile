@@ -1,1 +1,1 @@
-worker: python3 -m stdborg megasos
+web: python3 -m stdborg
