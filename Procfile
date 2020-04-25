@@ -1,1 +1,1 @@
-worker: python3 -m stdborg simposiodelmetallo
+worker: python3 -m stdborg
