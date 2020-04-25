@@ -40,7 +40,6 @@ if Config.HU_STRING_SESSION is not None:
     borg = Uniborg(
         StringSession(session_name),
         n_plugin_path="stdplugins/",
-        db_plugin_path="dbplugins/",
         api_config=Config,
         api_id=Config.APP_ID,
         api_hash=Config.API_HASH
